@@ -1,2 +1,2 @@
 #!/usr/bin/node
-console.log('C is fun\nPython is cool\nJavascript is amaing');
+console.log('C is fun\nPython is cool\nJavascript is amazing');
